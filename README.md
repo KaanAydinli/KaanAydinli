@@ -4,7 +4,7 @@
 📖  I’m currently learning Computer Science on Bilkent.    
 
 ### Coding languages that I know
-Java
+Java, JavaScript, HTML, CSS
 
 ### My Portfolio
 https://kaanaydinli.github.io
