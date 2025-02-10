@@ -7,7 +7,7 @@
 Java, JavaScript, HTML, CSS
 
 ### My Portfolio
-https://kaanaydinli.github.io
+https://kaanaydinli.com
 
 
 **🎯Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away.**
