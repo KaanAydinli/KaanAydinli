@@ -17,7 +17,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-gray.svg)](https://kaanaydinli.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/kaan-ayd%C4%B1nl%C4%B1-74b148334/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/@CodeWithKaan)
-You can email me at: [necatikaanaydinli@gmail.com](mailto:necatikaanaydinli@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-darkgreen.svg)](https://www.youtube.com/@CodeWithKaan)   
+
 
 
 
