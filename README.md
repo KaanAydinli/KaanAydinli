@@ -26,7 +26,7 @@
 </p>
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/ad977659-0482-4b88-9952-b7f8da248231" width="300" />
+      <img src="PixelMe.png" width="300" />
     </td>
   </tr>
 </table>
