@@ -1,16 +1,35 @@
-# Hi, I'm Kaan
-💎  I am a Full Stack developer creating web/desktop/mobile applications.    
-📖  I am studying Computer Science on Bilkent University.                    
-🏅  I’m interested in swimming, chess and fitness.
+    
+
+
+    
            
-
-
+<table>
+  <tr>
+    <td>  
+                     <p>
+                      
+## Hi, I'm Kaan  
+</p>
+           <p>💎  I am a Full Stack developer creating web/desktop/mobile applications.</p>
+           <p>📖  I am studying Computer Science on Bilkent University.</p>
+           <p>🏅  I’m interested in swimming, chess and fitness.</p>
+           <p>
+                      
 ## Coding languages that I use  
 [![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
-
-
-## My Tech Stack
+</p>
+           <p>
+                      
+## Coding languages that I use  
 [![My Skills](https://skillicons.dev/icons?i=git,github,mongo,nodejs,vite,electron,express)](https://skillicons.dev)
+
+</p>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/ad977659-0482-4b88-9952-b7f8da248231" width="300" />
+    </td>
+  </tr>
+</table>
 
 
 ## Reach out to me 
@@ -25,6 +44,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=onedark&margin-w=5&title=Commits&title=Followers&title=Repositories)
 
+## 💬 Inspiring Quote
 
-**🎯Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away.**
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20left%20to%20add,%20but%20when%20there%20is%20nothing%20left%20to%20take%20away.&author=Antoine%20de%20Saint-Exupéry)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
