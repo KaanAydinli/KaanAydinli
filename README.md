@@ -16,12 +16,12 @@
            <p>
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 </p>
            <p>
                       
-## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=git,github,mongo,nodejs,vite,electron,express)](https://skillicons.dev)
+## My Tech Stack 
+[![My Skills](https://skillicons.dev/icons?i=git,github,mongo,nodejs)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vite,electron,express)](https://skillicons.dev)
 
 </p>
     </td>
