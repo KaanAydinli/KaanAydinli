@@ -34,19 +34,12 @@
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/@CodeWithKaan)
 [![Gmail](https://img.shields.io/badge/Gmail-darkgreen.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=necatikaanaydinli@gmail.com)   
 
-
-<table width="100%">
-  <tr width="100%">
-    <td align="center">
-      <img src="https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=darkhub&column=4&margin-w=15&title=Commits,Followers,Repositories,Stars" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:200px;"/>
-    </td>
-  </tr>
-</table>
-
-
+## 📊 Stats
+<div style="display:flex; ">
+  <img  align="center" src="https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=darkhub&column=4&margin-w=1&title=Commits,Followers,Repositories,Stars" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:350px;"/>
+</div>
 
 
 ## 💬 Inspiring Quote
