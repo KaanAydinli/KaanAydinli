@@ -1,8 +1,4 @@
-    
 
-
-    
-           
 <table>
   <tr>
     <td>  
@@ -39,10 +35,19 @@
 [![Gmail](https://img.shields.io/badge/Gmail-darkgreen.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=necatikaanaydinli@gmail.com)   
 
 
+<table width="100%">
+  <tr width="100%">
+    <td align="center">
+      <img src="https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=darkhub&column=4&margin-w=15&title=Commits,Followers,Repositories,Stars" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:200px;"/>
+    </td>
+  </tr>
+</table>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=onedark&margin-w=5&title=Commits&title=Followers&title=Repositories)
+
 
 ## 💬 Inspiring Quote
 
