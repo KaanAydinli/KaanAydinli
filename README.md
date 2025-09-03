@@ -12,7 +12,7 @@
            <p>
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=css)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 </p>
            <p>
                       
