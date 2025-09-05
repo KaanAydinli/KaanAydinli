@@ -6,7 +6,7 @@
                       
 ## Hi, I'm Kaan  
 </p>
-           <p>💎  I am a Full Stack developer creating web/desktop/mobile applications.</p>
+           <p>💎  I am an Applied AI Engineer and Full Stack developer building web and desktop applications.</p>
            <p>📖  I am studying Computer Science on Bilkent University.</p>
            <p>🏅  I’m interested in swimming, chess and fitness.</p>
            <p>
