@@ -37,10 +37,11 @@
 
 ## Reach out to me 
   &nbsp;&nbsp;&nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-gray.svg)](https://kaanaydinli.com)
+[![CV](https://img.shields.io/badge/CV-183e61.svg)](CV.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0c8522.svg)](https://kaanaydinli.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/kaan-ayd%C4%B1nl%C4%B1-74b148334/)
 [![Youtube](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/@CodeWithKaan)
-[![Gmail](https://img.shields.io/badge/Gmail-darkgreen.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=necatikaanaydinli@gmail.com) [![CV](https://img.shields.io/badge/CV-gray.svg)](CV.pdf)
+[![Gmail](https://img.shields.io/badge/Gmail-white.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=necatikaanaydinli@gmail.com)
 
 
 
