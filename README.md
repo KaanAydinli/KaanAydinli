@@ -22,7 +22,7 @@
 </p>
     </td>
     <td>
-      <img src="PixelMe.png" width="300" />
+      <img src="PixelMeComputer.png" width="300" />
     </td>
   </tr>
 </table>
