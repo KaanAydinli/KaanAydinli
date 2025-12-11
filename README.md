@@ -22,7 +22,7 @@
 </p>
     </td>
     <td>
-      <img src="PixelMeComputer.png" width="300" />
+      <img src="PixelMeComputer.png" width="500" />
     </td>
   </tr>
 </table>
@@ -32,7 +32,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img  align="center" src="https://github-profile-trophy.vercel.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=4&margin-w=1&title=Commits,Followers,Repositories,Stars" /> 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:250px;"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:250"/>
 </div>
 
 ## Reach out to me 
