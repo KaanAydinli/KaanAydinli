@@ -29,10 +29,10 @@
 
 ## 📊 Stats
 <div style="display:flex; ">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=5&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:250"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img  align="center" src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience" /> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:400px"/>
 </div>
 
 ## Reach out to me 
