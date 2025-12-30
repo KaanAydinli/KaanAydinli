@@ -17,7 +17,7 @@
            <p>
                       
 ## My Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongo,nodejs,obsidian)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=vite,electron,express,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker&perline=10)](https://skillicons.dev)
 
 </p>
     </td>
