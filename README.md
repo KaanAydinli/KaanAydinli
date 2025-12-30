@@ -28,12 +28,12 @@
 </table>
 
 ## 📊 Stats
-<div style="display:flex; ">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience" /> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" style="width:400px"/>
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" width="400" />
+</p>
+
+
+
 
 ## Reach out to me 
   &nbsp;&nbsp;&nbsp;&nbsp;
