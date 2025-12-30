@@ -37,12 +37,14 @@
 
 
 ## Reach out to me 
-  &nbsp;&nbsp;&nbsp;&nbsp;
-[![CV](https://img.shields.io/badge/CV-183e61.svg)](CV.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0c8522.svg)](https://kaanaydinli.com)
-[![Linkedin](https://img.shields.io/badge/Linkedin-blue.svg)](https://www.linkedin.com/in/kaan-ayd%C4%B1nl%C4%B1-74b148334/)
-[![Youtube](https://img.shields.io/badge/Youtube-red.svg)](https://www.youtube.com/@CodeWithKaan)
-[![Gmail](https://img.shields.io/badge/Gmail-white.svg)](https://mail.google.com/mail/?view=cm&fs=1&to=necatikaanaydinli@gmail.com)
+<p align="center">
+  <a href="CV.pdf"><img src="https://img.shields.io/badge/CV-183e61?style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="https://kaanaydinli.com"><img src="https://img.shields.io/badge/Portfolio-0c8522?style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/kaan-ayd%C4%B1nl%C4%B1-74b148334/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="https://www.youtube.com/@CodeWithKaan"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="mailto:necatikaanaydinli@gmail.com"><img src="https://img.shields.io/badge/Email-555555?style=for-the-badge" /></a>
+</p>
+
 
 
 
