@@ -1,18 +1,19 @@
 
-<table>
+<table align="center" >
   <tr>
     <td>  
                      <p>
                       
 ## Hi, I'm Kaan  
 </p>
-           <p>💎  I am an Applied AI Engineer and Full Stack developer building web and desktop applications.</p>
-           <p>📖  I am studying Computer Science on Bilkent University.</p>
+           <p>💎  I am an Applied AI Engineer and Full Stack developer <br>building web and desktop applications.</p>
+           <p>📖  I am studying Computer Science at Bilkent University.</p>
            <p>🏅  I’m interested in swimming, chess and fitness.</p>
            <p>
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html)](https://skillicons.dev)  [![My Skills](https://skillicons.dev/icons?i=css,python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html,css)](https://skillicons.dev)                   
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
 </p>
            <p>
                       
@@ -22,7 +23,7 @@
 </p>
     </td>
     <td>
-      <img src="PixelMeComputer.gif" width="350" />
+      <img src="PixelMeComputer.gif" width=300px />
     </td>
   </tr>
 </table>
