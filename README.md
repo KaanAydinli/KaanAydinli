@@ -48,6 +48,14 @@
 
 ## 💬 Inspiring Quote
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20left%20to%20add,%20but%20when%20there%20is%20nothing%20left%20to%20take%20away.&author=Antoine%20de%20Saint-Exupéry)](https://github.com/piyushsuthar/github-readme-quotes)
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img
+      src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Perfection%20is%20achieved%20not%20when%20there%20is%20nothing%20left%20to%20add,%20but%20when%20there%20is%20nothing%20left%20to%20take%20away.&author=Antoine%20de%20Saint-Exupéry"
+      alt="Readme Quotes"
+    />
+  </a>
+</p>
+
 
  
