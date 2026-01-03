@@ -12,8 +12,8 @@
            <p>
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=cpp,ts,js,html,css)](https://skillicons.dev)                   
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev) [![My Skills](https://skillicons.dev/icons?i=java&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java&perline=5)](https://skillicons.dev)                   
+
 </p>
            <p>
                       
