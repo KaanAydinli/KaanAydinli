@@ -49,7 +49,7 @@
 
 
 
-## 💬 Inspiring Quote
+
 
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
