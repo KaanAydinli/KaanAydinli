@@ -12,13 +12,16 @@
            <p>
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java&perline=5)](https://skillicons.dev)                   
+[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java&perline=7)](https://skillicons.dev)                   
 
 </p>
            <p>
                       
 ## My Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker&perline=7)](https://skillicons.dev) 
+
+  
+
 
 </p>
     </td>
@@ -32,7 +35,6 @@
 <p align="center">
   <img src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" width="400" />
 </p>
-
 
 
 
