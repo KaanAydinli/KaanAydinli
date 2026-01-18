@@ -4,12 +4,14 @@
     <td>  
                      <p>
                       
-## Hi, I'm Kaan  
-</p>
-           <p>💎  I am an Applied AI Engineer and Full Stack developer <br>building web and desktop applications.</p>
-           <p>📖  I am studying Computer Science at Bilkent University.</p>
-           <p>🏅  I’m interested in swimming, chess and fitness.</p>
-           <p>
+# Hi, I'm Kaan  
+
+- I build web and desktop applications with a strong focus on Applied and Local AI, as well as system design.
+- I am a Computer Science student at Bilkent University.
+- Outside of tech, I enjoy swimming, chess, and fitness.
+
+           
+
                       
 ## Coding languages that I use  
 [![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java&perline=7)](https://skillicons.dev)                   
