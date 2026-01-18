@@ -14,13 +14,13 @@
 
                       
 ## Coding languages that I use  
-[![My Skills](https://skillicons.dev/icons?i=ts,js,cpp,html,css,python,java&perline=7)](https://skillicons.dev)                   
+[![My Skills](https://skill-icons-production.up.railway.app/icons?i=ts,js,cpp,html,css,python,java&perline=7)](https://skill-icons-production.up.railway.app/)                   
 
 </p>
            <p>
                       
 ## My Tech Stack 
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker&perline=7)](https://skillicons.dev) 
+[![My Skills](https://skill-icons-production.up.railway.app/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker&perline=7)](https://skill-icons-production.up.railway.app) 
 
   
 
