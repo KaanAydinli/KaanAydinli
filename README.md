@@ -20,7 +20,7 @@
            <p>
                       
 ## My Tech Stack 
-[![My Skills](https://skill-icons-production.up.railway.app/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker,chroma,npm,ollama,n8n&perline=7)](https://skill-icons-production.up.railway.app) 
+[![My Skills](https://skill-icons-production.up.railway.app/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker,chroma,npm,ollama&perline=7)](https://skill-icons-production.up.railway.app) 
 
   
 
