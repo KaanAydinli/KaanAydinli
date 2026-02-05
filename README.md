@@ -14,8 +14,14 @@
 
                       
 ## Coding languages that I use  
-[![My Skills](https://skill-icons-production.up.railway.app/icons?i=ts,js,cpp,html,css,python,java&perline=7)](https://skill-icons-production.up.railway.app/)                   
 
+<img src="TypeScript.svg" width="50" />
+<img src="JavaScript.svg" width="50" />
+<img src="CPP.svg" width="50" />
+<img src="HTML.svg" width="50" />
+<img src="CSS.svg" width="50" />
+<img src="Java-Light.svg" width="50" />
+<img src="Python-Dark.svg" width="50" />
 </p>
            <p>
                       
