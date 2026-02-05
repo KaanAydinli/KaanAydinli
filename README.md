@@ -22,11 +22,23 @@
 <img src="CSS.svg" width="50" />
 <img src="Java-Light.svg" width="50" />
 <img src="Python-Dark.svg" width="50" />
-</p>
-           <p>
-                      
+ 
 ## My Tech Stack 
-[![My Skills](https://skill-icons-production.up.railway.app/icons?i=git,github,vscode,mongo,nodejs,obsidian,vite,electron,express,docker,chroma,npm,ollama&perline=7)](https://skill-icons-production.up.railway.app) 
+
+<img src="Git.svg" width="50" />
+<img src="Github-Dark.svg" width="50" />
+<img src="MongoDB.svg" width="50" />
+<img src="VSCode-Dark.svg" width="50" />
+<img src="NodeJS-Dark.svg" width="50" />
+<img src="Obsidian-Dark.svg" width="50" />
+<img src="Vite-Dark.svg" width="50" />
+<img src="Electron.svg" width="50" />
+<img src="ExpressJS-Light.svg" width="50" />
+<img src="Docker.svg" width="50" />
+<img src="Chroma.svg" width="50" />
+<img src="Npm-Dark.svg" width="50" />
+<img src="Ollama.svg" width="50" />
+
 
   
 
