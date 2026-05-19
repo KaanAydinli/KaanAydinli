@@ -53,7 +53,7 @@
 
 ## 📊 Stats
 <p align="center">
-  <img src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" width="400" />
+  <img src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=4&margin-w=1&title=Commits,Followers,Repositories,Stars,MultiLanguage,Experience,Issues,Reviews" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" width="400" />
 </p>
 
 
