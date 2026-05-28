@@ -52,9 +52,22 @@
 </table>
 
 ## 📊 Stats
-<p align="center">
-  <img src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1" />&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark" width="450" />
-</p>
+<table align="center">
+  <tr>
+    <td valign="middle">
+      <img 
+        src="https://github-profile-trophy-production.up.railway.app/?username=KaanAydinli&theme=onedark&no-frame=true&column=3&margin-w=1"
+        height="350"
+      />
+    </td>
+    <td valign="middle">
+      <img 
+        src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark"
+        width="420"
+      />
+    </td>
+  </tr>
+</table>
 
 
 
