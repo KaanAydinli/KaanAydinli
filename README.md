@@ -30,7 +30,6 @@
 <img src="MongoDB.svg" width="50" />
 <img src="VSCode-Dark.svg" width="50" />
 <img src="NodeJS-Dark.svg" width="50" />
-<img src="Obsidian-Dark.svg" width="50" />
 <img src="Vite-Dark.svg" width="50" />
 <img src="Electron.svg" width="50" />
 <img src="ExpressJS-Light.svg" width="50" />
