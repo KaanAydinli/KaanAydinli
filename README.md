@@ -6,8 +6,8 @@
                       
 # Hi, I'm Kaan  
 
-- I build web and desktop applications with a strong focus on Applied and Local AI, as well as system design.
-- I am a Computer Science student at Bilkent University.
+- Software engineer working on AI systems and full-stack applications.
+- Computer Science student at Bilkent University.
 - Outside of tech, I enjoy swimming, chess, and fitness.
 
            
