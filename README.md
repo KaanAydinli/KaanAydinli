@@ -6,7 +6,7 @@
                       
 # Hi, I'm Kaan  
 
-- Software engineer working on AI systems and full-stack applications.
+- Software engineer working on AI systems and full stack applications.
 - Computer Science student at Bilkent University.
 - Outside of tech, I enjoy swimming, chess, and fitness.
 
