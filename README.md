@@ -60,7 +60,7 @@
     </td>
     <td valign="middle">
       <img 
-        src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark"
+        src="https://github-readme-stats-production-d668.up.railway.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark&exclude_repo=autocode"
         width="420"
       />
     </td>
