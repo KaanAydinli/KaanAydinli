@@ -44,7 +44,7 @@
 </p>
     </td>
     <td>
-      <img src="PixelMeComputer.gif" width=300px />
+      <img src="kaan_bw.png" width=300px />
     </td>
   </tr>
 </table>
