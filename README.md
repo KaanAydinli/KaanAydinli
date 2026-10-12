@@ -44,7 +44,7 @@
 </p>
     </td>
     <td>
-      <img src="kaan_bw.png" width=300px />
+      <img src="kaan_bw.png" width=400px />
     </td>
   </tr>
 </table>
