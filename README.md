@@ -60,7 +60,7 @@
     </td>
     <td valign="middle">
       <img 
-        src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark&exclude_repo=autocode"
+        src="https://github-stats-extended.vercel.app/api/top-langs/?username=KaanAydinli&layout=compact&theme=dark"
         width="420"
       />
     </td>
