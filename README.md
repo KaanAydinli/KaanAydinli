@@ -34,8 +34,6 @@
 <img src="ExpressJS-Light.svg" width="50" />
 <img src="Docker.svg" width="50" />
 <img src="Chroma.svg" width="50" />
-<img src="Npm-Dark.svg" width="50" />
-<img src="Ollama.svg" width="50" />
 <img src="playwright-seeklogo.svg" width="50" />
 
   
